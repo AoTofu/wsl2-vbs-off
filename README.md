@@ -106,6 +106,8 @@ Registry behavior around VBS has changed between Windows releases, so results on
 - [Microsoft Q&A — VBS is not disabled on Windows 11 24H2 (Windows Hello scenario)](https://learn.microsoft.com/en-us/answers/questions/2113711/vbs-is-not-disabled-on-windows-11-version-24h2-os)
 - [Tom's Hardware — Windows 11 VBS/HVCI gaming benchmarks](https://www.tomshardware.com/news/windows-11-gaming-benchmarks-performance-vbs-hvci-security)
 
-## Disclaimer
+## License
+
+Released into the public domain under [The Unlicense](LICENSE). Use, modify and redistribute it for any purpose, with no attribution required.
 
 Provided as is, without warranty. You are responsible for any changes made to your system.
